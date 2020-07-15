@@ -1,1 +1,0 @@
-DEBUG:root:['https://imgur.com/a/h7ZJ2\n', 'https://imgur.com/a/ixPK4\n', 'https://imgur.com/a/h2v5w\n', 'https://imgur.com/a/GWDGS\n', 'https://imgur.com/a/riD8a\n', 'http://imgur.com/a/vpSiG\n', 'https://imgur.com/a/1dxLi\n', 'https://imgur.com/a/g8bwe\n', 'https://imgur.com/a/tAGDE\n']
